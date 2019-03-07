@@ -1,0 +1,12 @@
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.exe.config
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.exe
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.pdb
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.csprojResolveAssemblyReference.cache
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.exe
+C:\Users\raihan\Desktop\EX\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.pdb
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.exe.config
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.exe
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.pdb
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.exe
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\bin\Debug\Agora_Super_Shop.pdb
+E:\Important File\Programs\Visual Studio\SWE-233_(Object Oriented CD(OOP))\Agora_Super_Shop\Agora_Super_Shop\obj\Debug\Agora_Super_Shop.csprojResolveAssemblyReference.cache

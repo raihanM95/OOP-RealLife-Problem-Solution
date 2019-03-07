@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\bin\Debug\Agora_App.exe.config
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\bin\Debug\Agora_App.exe
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\bin\Debug\Agora_App.pdb
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\obj\Debug\Agora_App.exe
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\obj\Debug\Agora_App.pdb
+E:\Important File\Programs\Visual Studio\Real_Life_Problem\Agora_App\Agora_App\obj\Debug\Agora_App.csprojResolveAssemblyReference.cache
